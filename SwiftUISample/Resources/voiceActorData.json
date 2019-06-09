@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "first_name": "悠一",
+    "last_name": "中村",
+    "birthday": "2月20日",
+    "height": 175,
+    "weight": 65,
+    "office": "シグマ・セブン",
+    "image_url": "nakamura",
+    "is_favorited": true
+  },
+  {
+    "id": 2,
+    "first_name": "洋貴",
+    "last_name": "安元",
+    "birthday": "3月16日",
+    "height": 179,
+    "weight": 68,
+    "office": "シグマ・セブン",
+    "image_url": "yasumoto",
+    "is_favorited": false
+  },
+  {
+    "id": 3,
+    "first_name": "裕行",
+    "last_name": "吉野",
+    "birthday": "2月6日",
+    "height": 163,
+    "weight": 49,
+    "office": "シグマ・セブン",
+    "image_url": "yoshino",
+    "is_favorited": false
+  }
+]
